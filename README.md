@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**WoH/woh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **software engineer** currently working from 🇩🇪.
 
-Here are some ideas to get you started:
+Here are some of my currently favourite languages and technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50">&nbsp;
+</p>
