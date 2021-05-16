@@ -2,7 +2,7 @@
 
 I am a **software engineer** currently working from 🇩🇪.
 
-Here are some of my currently favourite languages and technologies I work with:
+Here are some of my favourite languages and technologies I currently work with:
 
 <br>
 <p align="center">
